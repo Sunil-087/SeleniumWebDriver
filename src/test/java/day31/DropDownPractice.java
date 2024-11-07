@@ -22,8 +22,8 @@ public class DropDownPractice {
 		
 		
 		//count total number of options
-		List<WebElement>options= driver.findElements("//option[normalize-space()='Select Country']")
-		System.out.println("Total no. of options"+options.size());
+		//List<WebElement>options= driver.findElements("//option[normalize-space()='Select Country']")
+		//System.out.println("Total no. of options"+options.size());
 		
 		//
 	}
